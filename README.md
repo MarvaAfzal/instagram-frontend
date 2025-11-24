@@ -20,5 +20,4 @@ It provides the user interface for interacting with posts, user profiles, authen
 
 ---
 
-## 📁 Project Structure
 
