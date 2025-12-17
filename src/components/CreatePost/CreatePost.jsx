@@ -1,5 +1,5 @@
 import React from "react";
-import "./CreatePost.css";
+import "./Createpost.css";
 
 const CreatePost = ({ formData, setFormData, handleSubmit }) => {
   // Handle input change

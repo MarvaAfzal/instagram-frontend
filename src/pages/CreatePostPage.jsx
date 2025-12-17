@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CreatePost from "../components/createpost/CreatePost";
+import CreatePost from "../components/CreatePost/CreatePost";
 import { createPostService } from "../services/posts/post.services";
 import { useNavigate } from "react-router-dom";
 
