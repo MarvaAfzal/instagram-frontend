@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook } from "@fortawesome/free-brands-svg-icons";
-import "./Signup.css";
+import "./signup.css";
 const Signup = ({ formData, handleChange, handleSubmit, error }) => {
   return (
     <div className="signup_page">
